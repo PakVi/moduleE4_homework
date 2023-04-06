@@ -29,15 +29,15 @@ Pribor.prototype.getPower = function(){
 
 function UmniyPribor(name, power, ai){
     this.name = name;
-        this.power = power;
-        this.ai = ai;
+    this.power = power;
+    this.ai = ai;
 
 }
 
 function LightPribor(name, power,light){
     this.name = name;
-        this.power = power;
-        this.light = light;
+    this.power = power;
+    this.light = light;
 
 }
 
